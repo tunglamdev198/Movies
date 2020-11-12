@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuUpcoming"
+        android:icon="@drawable/ic_comming"
+        android:title="Upcoming" />
+    <item
+        android:id="@+id/mnuTopRate"
+        android:icon="@drawable/ic_rate"
+        android:title="Top Rate" />
+    <item
+        android:id="@+id/mnuPopular"
+        android:icon="@drawable/ic_now_playing"
+        android:title="Popular" />
+    <item
+        android:id="@+id/mnuNowPlaying"
+        android:icon="@drawable/ic_now_playing"
+        android:title="Now Playing" />
+</menu>
